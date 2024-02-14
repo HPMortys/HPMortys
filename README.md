@@ -1,4 +1,3 @@
-<code>🎓 Student: KPI / IM-22мп</code>
 <code>👷 Speciality: Software engineer / Backend Dev</code><br>
 <code>💡 [Skills](SKILLS.md)</code>
 <code>🧑‍💻 Languages: Python, JavaScript</code>
